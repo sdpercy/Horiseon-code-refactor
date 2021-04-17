@@ -59,8 +59,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Style End */
 
-
+/* Start of content sections*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -70,7 +71,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-/* apply styles to content sections*/
+
 .content {
     width: 75%;
     display: inline-block;
@@ -94,6 +95,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End of content sections*/
+
 
 .benefits {
     margin-right: 20px;
