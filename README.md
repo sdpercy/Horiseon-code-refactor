@@ -18,3 +18,14 @@ GIVEN a webpage meets accessibility standards
 
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
+
+### Technical Acceptance Criteria
+ Satify above criteria plus the following code improvements
+ 
+ * Application's links all function correctly.
+ * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+ * Application's CSS file is properly commented.
+
+### Deployment
+
+Deploy application at live URL.
