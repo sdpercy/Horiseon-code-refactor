@@ -2,7 +2,7 @@
 
 Update the accessiblity for Horiseon website with the below acceptance criteria:
 
-# Technology Used
+## Technology Used
 
 HTML & CSS
 
