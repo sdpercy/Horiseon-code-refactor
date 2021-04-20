@@ -1,6 +1,6 @@
 # Challenge 1 - Code Refactor Starter Code
 
-Update the accessiblity for Horiseon website 
+Update the accessiblity for Horiseon website with the below acceptance criteria:
 
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
