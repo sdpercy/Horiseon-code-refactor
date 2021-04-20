@@ -2,6 +2,10 @@
 
 Update the accessiblity for Horiseon website with the below acceptance criteria:
 
+# Technology Used
+
+HTML & CSS
+
 ## Acceptance Criteria
 The Horiseon webpage meets accessibility standards.
 * The source code has semantic HTML elements that follow a logical structure independent of style and positioning.  All image elements have accessible attributes.  The header attributes fall in sequential order.  Finally find a concise, descriptive title.
