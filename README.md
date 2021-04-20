@@ -4,20 +4,7 @@ Update the accessiblity for Horiseon website with the below acceptance criteria:
 
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
-* WHEN I view the source code
-* THEN I find semantic HTML elements
-
-* WHEN I view the structure of the HTML elements
-* THEN I find that the elements follow a logical structure independent of styling and positioning
-
-* WHEN I view the image elements
-* THEN I find accessible alt attributes
-
-* WHEN I view the heading attributes
-* THEN they fall in sequential order
-
-* WHEN I view the title element
-* THEN I find a concise, descriptive title
+* The source code has semantic HTML elements that follow a logical structure independent of style and positioning.  All image elements have accessible attributes.  The header attributes fall in sequential order.  Finally find a concise, descriptive title.
 
 ## Technical Acceptance Criteria
  Satify above criteria plus the following code improvements
