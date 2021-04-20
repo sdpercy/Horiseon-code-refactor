@@ -1,4 +1,4 @@
-# Challenge 1 - Code Refactor Starter Code
+# Challenge 1 - Code Refactor 
 
 Update the accessiblity for Horiseon website with the below acceptance criteria:
 
