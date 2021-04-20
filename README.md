@@ -1,8 +1,8 @@
 # Challenge 1 - Code Refactor Starter Code
 
-## Update the accessiblity for Horiseon website 
+Update the accessiblity for Horiseon website 
 
-### Acceptance Criteria
+## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 * WHEN I view the source code
 * THEN I find semantic HTML elements
