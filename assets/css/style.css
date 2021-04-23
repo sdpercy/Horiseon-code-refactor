@@ -24,6 +24,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+/* changed header div to head nav */
 
 header nav {
     padding-top: 15px;
@@ -33,9 +34,12 @@ header nav {
     font-size: 20px;
 }
 
+/* changed header div to nav */
 header nav ul li {
     display: inline-block;
 }
+
+/* consolidated styling */
 
 header nav ul li a {
     list-style-type: none;
@@ -68,6 +72,7 @@ header nav ul li a {
     margin-left: 25px;
 }
 
+/* Reordered and consildated styling to reflect the changes in the HTML tags */
 .content {
     width: 75%;
     display: inline-block;
@@ -135,3 +140,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+ /* End of footer */
