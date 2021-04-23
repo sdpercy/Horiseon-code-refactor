@@ -19,7 +19,7 @@ The Horiseon webpage meets accessibility standards.
 
 ## Deployment
 
-Deployed application URL https://sdpercy.github.io/challenge-one/.
+Deployed application URL https://sdpercy.github.io/Horiseon-code-refactor/
 
 ![image](https://user-images.githubusercontent.com/78440638/115405884-384cfc80-a1c9-11eb-9e32-6efafe50d9aa.png)
 
